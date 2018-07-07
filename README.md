@@ -7,5 +7,5 @@ Linefollower is an automatic and self contained robot that solves mazes in order
 If complied on Arduino IDE, the entrypoint is in Bot.ino. 
 For testing purposes, it can be compiled directly to .exe and the algorithm may be tested using the autotest.py GUI in /Test.
 
-![Cerificate Linefollower](https://raw.githubusercontent.com/s-ankur/linefollower-technex/master/techfest.png)
+![ Linefollower](https://raw.githubusercontent.com/s-ankur/linefollower-technex/master/robot.jpg)
 
